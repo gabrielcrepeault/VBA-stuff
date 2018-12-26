@@ -1,6 +1,6 @@
-Attribute VB_Name = "General"
+Attribute VB_Name = "optimisation"
 ' Proc�dure d'optimisation de macro
-Public Sub Optimisation(trigger As Boolean)
+Public Sub optimisation(trigger As Boolean)
     With Application
     If trigger Then
         .EnableEvents = False
