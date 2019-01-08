@@ -1,5 +1,6 @@
 Attribute VB_Name = "optimisation"
-' Proc�dure d'optimisation de macro
+' Helps VBA Macro run faster
+
 Public Sub optimisation(trigger As Boolean)
     With Application
     If trigger Then
