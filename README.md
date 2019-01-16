@@ -2,7 +2,7 @@
 VBA Apps that I've created.
 
 # More information on Apps
-To have more information on the Apps in this repository, go to the [Wiki section](https://github.com/gabrielcrepeault/VBA-apps/wiki).
+To have more information on the Apps in this repository, go to the [Wiki section](https://github.com/gabrielcrepeault/VBA-stuff/wiki).
 
 # Apps list
 Updated as of : *12/10/2018*
